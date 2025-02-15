@@ -19,4 +19,6 @@
     npm i --save @fortawesome/free-brands-svg-icons
 
     npm i --save @fortawesome/react-fontawesome@latest
+
+    npm i react-router-dom
 */
