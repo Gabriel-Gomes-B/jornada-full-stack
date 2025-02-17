@@ -34,5 +34,29 @@
 
     npm run dev
 
+    Aula 4
+
+    npm i -> instalar o node
+
+    npm run dev
+
+    cd back-end
+
+    npm init -y
+
+    npm i express
+
+    node ./api/server.js
+
+    node --watch ./api/server.js
+
+    node ./api/connect.js
     
+    cls
+
+    node ./api/insertMany.js
+
+    npm i axios
+
+    npm i cors
 */
