@@ -3,7 +3,7 @@
 // Fullfilled
 import { MongoClient } from 'mongodb'
 
-const URI = "mongodb+srv://gabriel:Mat23Ti19@cluster0.rn82p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const URI = "mongodb+srv://gabriel:<db-password>@cluster0.rn82p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 const client = new MongoClient(URI);
 
